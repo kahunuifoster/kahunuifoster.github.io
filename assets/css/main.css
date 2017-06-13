@@ -598,7 +598,7 @@
 
 	.box {
 		background: #ffffff;
-		color: #ffffff;
+		color: #39454b;
 		padding: 2em;
 	}
 
@@ -1765,6 +1765,7 @@
 		position: relative;
 		margin: 0;
 		overflow-x: hidden;
+		color: #ffffff;
 	}
 
 		.main > .content {
