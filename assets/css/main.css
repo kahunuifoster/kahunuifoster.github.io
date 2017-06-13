@@ -597,6 +597,7 @@
 /* Box */
 
 	.box {
+		
 		color: #39454b;
 		padding: 2em;
 	}
@@ -617,6 +618,7 @@
 
 				.box.style2 {
 					padding: 1.5em 1.25em 1.5em 1.25em;
+					background-color: rgba(255, 255, 255, 0.9);
 				}
 
 		}
