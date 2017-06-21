@@ -1269,6 +1269,9 @@
 		max-width: 100%;
 		margin: 0 auto 2em auto;
 	}
+	div.desc {
+    padding: -15px;
+}
 
 		.gallery article {
 			-moz-transition: -moz-transform 1s ease, opacity 1s ease;
